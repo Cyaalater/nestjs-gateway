@@ -1,0 +1,21 @@
+{
+    "Backend" : {
+        "Service_Names" : {
+            "Database" :{
+                "IP": "https://localhost:8000",
+                "TOGGLE": "true"
+            }
+        }
+    },
+    "Authentication" : {
+        "Password" : {
+            "Min_Length": "8"
+        },
+        "Username" : {
+            "Min_Length": "8"
+        }
+    },
+    "Jwt": {
+        "Key": "2<0(GPO'9ju'2QS{Xd:v"
+    }
+}
