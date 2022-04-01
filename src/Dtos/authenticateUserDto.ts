@@ -1,4 +1,4 @@
 export interface AuthenticateUserDto  {
-    Username: string;
+    UserName: string;
     Password: string;
 }

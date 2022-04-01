@@ -2,7 +2,7 @@
     "Backend" : {
         "Service_Names" : {
             "Database" :{
-                "IP": "https://localhost:8000",
+                "IP": "http://localhost:7041",
                 "TOGGLE": "true"
             }
         }
